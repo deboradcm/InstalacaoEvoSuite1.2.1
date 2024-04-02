@@ -17,7 +17,7 @@ mvn -version
 ## Clonar o repositório EvoSuite
 Clone o repositório EvoSuite para o diretório desejado. Por exemplo, para cloná-lo dentro de uma pasta chamada Tutorial_Stack, execute o seguinte comando:
 ```
-git clone https://github.com/EvoSuite/evosuite.git Tutorial_Stack
+git clone https://github.com/EvoSuite/evosuite.git
 ```
 ## Compilar e instalar o EvoSuite
 Navegue até o diretório do EvoSuite que você acabou de clonar:
