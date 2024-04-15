@@ -63,7 +63,7 @@ mvn install
 ## Executar o EvoSuite
 Por fim, execute o EvoSuite com o seguinte comando:
 ```
-java -jar ~/Tutorial_Stack/evosuite/master/target/evosuite-master-1.2.1-SNAPSHOT.jar
+java -jar ~/Tutorial_Stack/evosuite/master/target/evosuite-master-1.2.1-SNAPSHOT.jar -target /caminho/para/seu/projeto   
 ```
 Você deve ver a seguinte mensagem indicando que o EvoSuite foi iniciado com sucesso:
 `
